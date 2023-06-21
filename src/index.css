@@ -5,3 +5,7 @@
 .Scroll::-webkit-scrollbar{
     display: none;
 }
+
+body{
+    padding: 10px;
+}
